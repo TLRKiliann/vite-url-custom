@@ -1,2 +1,5 @@
 # vite-url-custom
-vite url 2
+
+Simple webapp to craft url from options of select tag.
+
+Enjoy! :koala:
